@@ -568,7 +568,7 @@ a.menulink:hover {
 }
 
 .home {
-    background-image: url("../images/test.png");
+    background-image: url("../images/construction.png");
     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: 700px 500px;
@@ -968,7 +968,7 @@ a.wit:hover {
     .gallery {
         display: grid;
         grid-template-columns: repeat(5, 1fr);
-        grid-template-rows: repeat(2, 9vw);
+        grid-template-rows: repeat(2, 8vw);
         grid-gap: 15px;
     }
 }
